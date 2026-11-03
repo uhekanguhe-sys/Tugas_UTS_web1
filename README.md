@@ -1,9 +1,10 @@
-ini adalah tampilan halaman login Input: email dan password. yang mana berisi
+Ini adalah tampilan halaman login Input: email dan password. yang mana berisi
 • Tombol “Login” 
 • Jika salah atau tidak sesuai, munculkan pop-up/alert yang berisi bahwa "email/password 
 yang anda masukkan salah" 
 • Terdapat tombol “Lupa Password” dan “Daftar” yang dimunculkan dalam 
 • bentuk modal box/pop up
+dan berikut saya simulasikan ketika salah input email dan password.
 <img width="1920" height="1200" alt="Tampilan login" src="https://github.com/user-attachments/assets/9338ae7a-c626-4a7e-88c2-483b8406e896" />
 
 kemudian ini adalah menu utama yang terdiri atas tombol navigasi ke:
