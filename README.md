@@ -6,6 +6,8 @@ yang anda masukkan salah"
 • bentuk modal box/pop up
 dan berikut saya simulasikan ketika salah input email dan password.
 <img width="1920" height="1200" alt="Tampilan login" src="https://github.com/user-attachments/assets/9338ae7a-c626-4a7e-88c2-483b8406e896" />
+<img width="1920" height="1200" alt="Screenshot 2026-11-03 234347" src="https://github.com/user-attachments/assets/ccda0282-2fa1-46ff-b698-007f70f61ed8" />
+
 
 kemudian ini adalah menu utama yang terdiri atas tombol navigasi ke:
 o Informasi Stok/Katalog
